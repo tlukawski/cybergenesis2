@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tomasz.lukawski.game.UnknownActionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-27T18:13:45" hostname="DESKTOP-GUTINQ6" time="0.465">
+  <properties/>
+  <testcase name="should do nothing in unknown action" classname="tomasz.lukawski.game.UnknownActionTest" time="0.465"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
